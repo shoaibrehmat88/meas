@@ -78,6 +78,9 @@ The idea of the app that a user can register/login to the App and is able to cre
 <br> on success save the item to the database
 - <b> Update ToDo route </b>: 
 <br> only accessible for logged in users
+<br> respond with an object containing the title and description of the requested ToDo
+- <b> Update ToDo route </b>: 
+<br> only accessible for logged in users
 <br> 2 fields required: title and description of the ToDo
 <br> on success save updated item to the database
 - <b> Delete ToDo route </b>: 
