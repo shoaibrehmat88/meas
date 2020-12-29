@@ -10,13 +10,13 @@ This whole test is of an open ended nature, so in case some things are not clear
 <br/>
 
 ## Summary
-The idea of the app that a user can register/login to the App and is able to create new notes and to update/delete previous notes. Notes themselves are simple entity which has a title, description and timestamps. 
+The idea of the app that a user can register/login to the App and is able to create new notes and to update/delete previous ToDos. ToDos themselves are simple entity which has a title, description and timestamps. 
 
 <br/>
 
 ## Shared
 - Setup a Laravel application in such a way that the Vue.js part will act as a SPA (single page application) and the Laravel part as a RESTful API
-- Users should only be able to perform CRUD operations on their own ToDos
+- Users should only be able to perform CRUD operations only on their own ToDos
 
 <br>
 
