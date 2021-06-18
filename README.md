@@ -3,28 +3,33 @@
 ## Introduction
 Hello there potential ITRoadway developers. The App that you will be building will be a very simple ToDo application, with a focus on seeing how you handle technologies you probably never used before.
 
-We would also like to see how you work together in a team, so while there will be distinct tasks for both frontend and backend, some tasks will be shared ones where you can coordinate between yourselves about who will do which part.
-
 This whole test is of an open ended nature, so in case some things are not clearly defined, it will be up to you to make the decision and explain your choice about going that route on the interview. Of course, you can still feel free to contact us about any potential clarifications about the tasks listed.
 
 <br/>
 
 ## Summary
+It is a requirement of the role that you are a confident English speaker. If you feel your language skills may be an issue please advise so we can assess before you complete this task.
+
 The idea of the app that a user can register/login to the App and is able to create new notes and to update/delete previous ToDos. ToDos themselves are simple entity which has a title, description and timestamps. 
 
 <br/>
 
-## Shared
+## Fullstack
 - Setup a Laravel application in such a way that the Vue.js part will act as a SPA (single page application) and the Laravel part as a RESTful API
 - Users should only be able to perform CRUD operations only on their own ToDos
+- Please complete both sections: "Frontend" and "Backend"
 
 <br>
 
 ## Frontend
+
+You are free to use any css framework or UI library that you want.
+You can use any external APIs you can find for ToDos as endpoints.
+
 - There will be 6 screens in total: welcome screen (for guest users), login, register, ToDos list, create new ToDo, view/update ToDo
 - Once the user is logged in, they should stay logged in (even if the page is refreshed) using the existing token
 - Logout button in navigation which will logout the user
-- There are no designs provided, and you will have to make the screens as you see fit
+- Designs will not form part of the assessment so please focus on good quality code rather than screen presentation
 - <b>Welcome screen</b>:  will only be visible if a user is not logged in and is on route '/'
 - <b> Register screen </b>: 
 <br>only accessible to guest users (not logged in)
