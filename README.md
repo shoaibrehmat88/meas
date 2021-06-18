@@ -7,6 +7,14 @@ The App that you will be building will be a very simple ToDo application, the pu
 
 This whole test is of an open ended nature, so in case some things are not clearly defined, it will be up to you to make the decision and explain your choice about going that route on the interview. Of course, you can still feel free to contact us about any potential clarifications about the tasks listed.
 
+We are recruiting for 3 roles: 
+
+
+	
+- <b>Full stack developer</b> - must complete both <b>backend</b> and <b>frontend</b> tasks;
+- <b>Backend developer</b> - must complete the <b>backend</b> task;
+- <b>Frontend developer</b> - must complete the <b>frontend</b> task.
+
 <br/>
 
 ## Summary
