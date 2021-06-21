@@ -7,6 +7,8 @@ The App that you will be building will be a very simple ToDo application, the pu
 
 This whole test is of an open ended nature, so in case some things are not clearly defined, it will be up to you to make the decision and explain your choice about going that route on the interview. Of course, you can still feel free to contact us about any potential clarifications about the tasks listed.
 
+Once you have completed the task please upload your code to a public repo in Github and share the link. 
+
 We are recruiting for 3 roles: 
 
 
